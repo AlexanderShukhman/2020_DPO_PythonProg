@@ -40,6 +40,9 @@
 11 занятие (18.04.2020)  
 [Классы в Python. Реализация собственного класса (алгоритм kNN](https://github.com/rogovich/2020_DPO_PythonProg/tree/master/10_Classes)
 
+12 занятие (25.04.2020)
+[Бот в Telegram. Описание проекта](https://github.com/rogovich/2020_DPO_PythonProg/tree/master/11_Bot)
+
 Материалы для тренировки  
 [Ссылки и краткие описания](https://github.com/rogovich/2020_DPO_PythonProg/blob/master/dopmaterialy.md)
 
