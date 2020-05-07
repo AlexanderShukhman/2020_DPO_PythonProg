@@ -79,6 +79,7 @@
 
 12 занятие (25.04.2020)
 [Проект. Описание](https://docs.google.com/document/d/16PII0IGaLWZEukhHNOrmsPlJsZ5GxJMnXcrNoqNwiag/edit?usp=sharing)
+[Загрузите блокнот с вашим решением по ссылке](https://www.dropbox.com/request/0fbDun1eTZbikKPDZDu7)
 
 **Дедлайны:**  
 * 23.59 16.05.2020 (без штрафа)  
